@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Parnya Azimi"
-  avatar           : "assets\images\pari.png"
+  avatar           : assets/images/moon.jpg
   bio              : Computer engineering student.
   location         : "تهران"
   email            : parnyaazimi18@gmail.com
