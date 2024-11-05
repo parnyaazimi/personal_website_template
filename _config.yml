@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "pari azimi"
-  avatar           : "/assets/images/pari.png"
+  avatar           : assets\images\pari.png
   bio              : I'm the best student.
   location         : "تهران"
   email            : sauleh@gmail.com
