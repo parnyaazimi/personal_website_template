@@ -2,7 +2,7 @@
 layout: posts
 title: Hi pari
 ---
-- WE worked whid VScode
+- We worked with VScode
 - We wrote some code
 - We built our website
 - We pushed
