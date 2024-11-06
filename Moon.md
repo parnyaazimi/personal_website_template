@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-permalink: /Moon/
+permalink: /moon/
 title: The attractive of sky
 tags: [Moon]
 modified: 06-11-2024
