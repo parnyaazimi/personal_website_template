@@ -2,8 +2,8 @@
 main:
   - title: "moon"
     url: /moon/
-  - title: "CV"
-    url: /cv/
+  - title: "trip"
+    url: /trip/
   - title: "Courses"
     url: /courses/
   - title: "Friends"
