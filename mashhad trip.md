@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-permalink: /Mashhad trip/
+permalink: /mashhad trip/
 title: Resume
 tags: [trip]
 modified: 6-11-2024
