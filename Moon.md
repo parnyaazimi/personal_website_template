@@ -13,7 +13,9 @@ comments: false
       Pleas look at this pecture...
 
 
-![^_^](assets/images/Negar_۲۰۲۲۰۸۲۵_۱۴۲۰۳۳.png)
+![](assets/images/Negar_۲۰۲۲۰۸۲۵_۱۴۲۰۳۳.png)
+
+
 - Sometimes I think that the Earth must revolve around the Moon! 
 Because it is very beautiful and attractive.
 
