@@ -4,7 +4,7 @@ title: Gallery
 tags: [gallery]
 modified: 9-14-2019
 comments: false
----
+
 
 gallery:
   - url: assets/images/moon3.jpg
@@ -23,5 +23,6 @@ gallery:
     image_path: assets/images/moon4.jpg
     alt: "placeholder image 4"
     title: "Image 4 title caption" 
+---
 
 {% include gallery caption="Moon is a one of **God's miracles**." %}
