@@ -25,3 +25,5 @@ gallery:
     title: "Image 4 title caption" 
 ---
 
+{% include gallery caption="The moon is one of **God's miracles**." %}
+
