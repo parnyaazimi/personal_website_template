@@ -15,13 +15,13 @@ comments: false
 |----|----------|----------------|-------|--------------|
 |2024|  Sunday  | Computer basics|math|Computer workshop|
 |----|----------|----------------|-----|----------------|
-|2019|  Monday  |     Industry   |Physics|English       |
+|2024|  Monday  |     Industry   |Physics|English       |
 |----|----------|---------------------------------------|
 |2024|  Tuesday |Computer basics|math|Computer workshop |
 |----|----------|---------------------------------------|
 |2024| Wednesday| Computer basics |English         |    |
 |----|----------|---------------------------------------|
-|2019| Thursday |  Math |         |                     |
+|2024| Thursday |  Math |         |                     |
 |----|----------|---------------------------------------|
 |2024|  Friday  |         Free                          |
 |----|----------|---------------------------------------|
