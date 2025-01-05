@@ -11,6 +11,6 @@ comments: false
 
 ![](assets/images/Screen.jpg)
 
-- [sample item 1](n.liara.fccourse)
+- [sample item 1](https://fccourse.liara.run/)
 - sample item 2
 
