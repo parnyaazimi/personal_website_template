@@ -9,7 +9,7 @@ comments: false
 ---
 # Exam day shots
 
-![](assets/images/Screenshot%202025-01-05%20.jpg)
+![](assets/images/Screen.jpg)
 
 - [sample item 1](n.liara.fccourse)
 - sample item 2
