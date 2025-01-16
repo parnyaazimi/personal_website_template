@@ -16,15 +16,11 @@ gallery:
   - url: assets/images/moon1.png
     image_path: assets/images/moon1.png
     alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: assets/images/moon5.jpg
-    image_path: assets/images/moon2.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"  
+    title: "Image 2 title caption" 
   - url: assets/images/moon4.jpg
     image_path: assets/images/moon4.jpg
-    alt: "placeholder image 4"
-    title: "Image 4 title caption" 
+    alt: "placeholder image 3"
+    title: "Image 3 title caption" 
 ---
 
 {% include gallery caption="Moon is a one of **God's miracles**." %}
