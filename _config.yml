@@ -118,9 +118,6 @@ author:
   github: Parnya Azimi
   instagram: parnyaazimiii
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: http://parnyaazimi18@gmail.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/parnyaazimi

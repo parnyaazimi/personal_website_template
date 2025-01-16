@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 permalink: /mashhad trip/
-title: Mashhad trip
+title: Introduction camp for new students
 tags: [trip]
 modified: 6-11-2024
 comments: false

@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 permalink: /curriculum/
-title: urriculum C
+title: Curriculum
 tags: [University]
 modified: 06-11-2024
 comments: false

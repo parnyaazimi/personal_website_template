@@ -14,3 +14,4 @@ comments: false
 - [sample item 1](https://fccourse.liara.run/)
 - sample item 2
 
+*( We made this page in the final exam of the computer workshop.)

@@ -4,7 +4,7 @@ author_profile: true
 permalink: /gallery/
 title: Gallery
 tags: [gallery]
-modified: 9-14-2019
+modified: 1-16-2025
 comments: false
 
 
@@ -17,7 +17,7 @@ gallery:
     image_path: assets/images/moon1.png
     alt: "placeholder image 2"
     title: "Image 2 title caption"
-  - url: assets/images/moon2.jpg
+  - url: assets/images/moon5.jpg
     image_path: assets/images/moon2.jpg
     alt: "placeholder image 3"
     title: "Image 3 title caption"  
